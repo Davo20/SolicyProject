@@ -3,7 +3,7 @@ import React from "react";
 export default function Footer(){
     return(
         <footer>
-            <span>The given project performed David Balabekyan</span>
+            <p>The given project performed David Balabekyan</p>
         </footer>
     )
 }
